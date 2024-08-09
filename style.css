@@ -43,7 +43,7 @@ body{
     gap: 20px;
 }
 #homepage{
-    background-image: url("../homeImage.jpg");
+    background-image: url("../homeImage.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
