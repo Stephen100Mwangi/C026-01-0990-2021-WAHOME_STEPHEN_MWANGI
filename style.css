@@ -23,7 +23,7 @@ body{
 .calligraphy{
     font-family: Roboto;
     letter-spacing: -10px;
-    font-size: 64px;
+    font-size: 72px;
     font-weight: 900;
     color: white;
 }
@@ -43,12 +43,9 @@ body{
     gap: 20px;
 }
 #homepage{
-    background-image: url("../homeImage.JPG");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     background-clip: content-box;
     background-color: #000000;
+    z-index: .1;
 }
 #homepage::before {
     content: "";
